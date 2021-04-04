@@ -7,6 +7,11 @@ const data =
         name:'rabindra',
         email:'sharma@gmail.com',
         phone:'88829455455'
+    },{
+        id:2,
+        name:'rabindra',
+        email:'sharma@gmail.com',
+        phone:'88829455455'
     }]
 }
 
